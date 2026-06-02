@@ -1,7 +1,7 @@
 """Central configuration for the CAISO KAN forecasting replication."""
 
 # ── Data ──────────────────────────────────────────────────────────────────────
-START_YEAR = 2015
+START_YEAR = 2018   # gridstatus caiso.com/outlook/history starts May 2018
 END_YEAR   = 2024
 
 # API keys – fill these in before running scripts/fetch_data.py
